@@ -47,6 +47,10 @@ ul {
     padding-left: 20px;
 }
 
+li {
+    margin-bottom: 8px;
+}
+
 footer {
     background-color: rgba(0, 119, 182, 0.9);
     color: white;
