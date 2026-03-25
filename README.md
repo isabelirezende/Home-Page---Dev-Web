@@ -26,4 +26,4 @@ Este projeto foi feito com base no conteúdo aprendido nas primeiras semanas do 
 
 ## Acesse
 
-(Adicionar aqui o link do GitHub Pages depois)
+( https://isabelirezende.github.io/Home-Page---Dev-Web/)
